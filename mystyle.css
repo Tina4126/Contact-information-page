@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color:rgb(120, 197, 217);
+    max-width: 80%;
+    max-height: 80%;
+}
+header {
+    position: fixed;
+    height: 20%;
+}
+nav {
+    display: block;
+}
+nav ul li {
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+.header-1, .header-2, .header-3 {
+color: blue;
+}
+.section-1 {
+    position: none;
+ }
+ .section-2 {
+    background-color: aliceblue;
+    padding: 50px;
+    border: 15px yellow;
+    margin: 50px;
+ }
